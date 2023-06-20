@@ -16,3 +16,6 @@ Data extraction using the yfinance library
 Webscraping using the BeautifulSoup library
 Data Analysis
 Dashboard creation# Python-Project-for-Data-Science
+
+🏆 Certificates
+To verify the certificates, click the images to follow the links.
