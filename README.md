@@ -20,5 +20,6 @@ Dashboard creation# Python-Project-for-Data-Science
 🏆 Certificates
 To verify the certificates, click the images to follow the links.
 
-![Screenshot (11)](https://github.com/AngadiAbhinay01/Python-Project-for-Data-Science/assets/98681811/d3bc37cd-47b0-4091-8717-dc499667d51a)
+![Screenshot (12)](https://github.com/AngadiAbhinay01/Python-Project-for-Data-Science/assets/98681811/39ff717c-ce68-4588-93b3-522cd6af1692)
+
 
